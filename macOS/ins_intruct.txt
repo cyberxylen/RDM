@@ -1,0 +1,2 @@
+brew install rdm-tool
+rdm --start
