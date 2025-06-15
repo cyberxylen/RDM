@@ -1,0 +1,5 @@
+---- Installation instruction ----
+
+wget  https://github.com/cyberxylen/Linux/rdm-linux.deb
+sudo dpkg -i rdm-linux.deb
+sudo rdm --start
